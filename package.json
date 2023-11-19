@@ -1,5 +1,5 @@
 {
-  "name": "danger-plugin-spellcheck",
+  "name": "@benasher44/danger-plugin-spellcheck",
   "description": "Spell checks any created or modified markdown files.",
   "author": {
     "name": "Orta Therox + Yuki Nishijima",
