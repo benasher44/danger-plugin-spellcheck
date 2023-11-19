@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/orta/danger-plugin-spellcheck.git"
+    "url": "https://github.com/benasher44/danger-plugin-spellcheck.git"
   },
   "bugs": {
-    "url": "https://github.com/orta/danger-plugin-spellcheck/issues"
+    "url": "https://github.com/benasher44/danger-plugin-spellcheck/issues"
   },
-  "homepage": "https://github.com/orta/danger-plugin-spellcheck#readme",
+  "homepage": "https://github.com/benasher44/danger-plugin-spellcheck#readme",
   "keywords": [
     "danger",
     "danger-plugin",
